@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ivan-angjelkoski
-- 👀 I’m interested in Front End Web Design.
-- 🌱 I’m currently learning ReactJs.
-- 💞️ I’m looking to collaborate on Web Projects...
 - 📫 How to reach me: ivanangjelkoski@gmail.com ...
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ivan-angjelkoski/ivan-angjelkoski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
